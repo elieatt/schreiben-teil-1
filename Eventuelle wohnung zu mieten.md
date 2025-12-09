@@ -24,4 +24,15 @@ Was meinst du? Vielleicht hast du nächste Woche Zeit, sie  mit mir zu besichtig
 Ich freue mich auf deine Antwort.</p>
 <p>Liebe Grüße,<br>
 Elie</p>
+<p>Liebe Areej,</p>
+<p>wir haben schon lange nichts voneinander gehört. Ich hoffe, dass bei dir alles in Ordnung ist.</p>
+<p>Ich schreibe dir, um dir von der Wohnung zu erzählen, die ich gestern besichtigt habe.</p>
+<h3 id="🏠-beschreibung-der-wohnung"><strong>1. 🏠 Beschreibung der Wohnung</strong></h3>
+<p>Die Wohnung ist im vierten Stock und sehr geräumig. Sie hat vier helle Zimmer, eine moderne Küche und einen großen Balkon mit Blick auf den Park. <strong>Insgesamt</strong> ist die Wohnung in einem sehr guten Zustand.</p>
+<h3 id="📍-lage-und-notwendigkeit"><strong>2. 📍 Lage und Notwendigkeit</strong></h3>
+<p>Wir brauchen diese Wohnung dringend, weil meine aktuelle Wohnung zu klein und außerdem <strong>viel zu teuer</strong> ist. Die neue Wohnung liegt sehr zentral in einem ruhigen Stadtteil, sodass wir beide schnell zur Universität bzw. zur Arbeit kommen.</p>
+<h3 id="🗓️-vorschlag-zur-besichtigung"><strong>3. 🗓️ Vorschlag zur Besichtigung</strong></h3>
+<p>Was hältst du davon? Die Wohnung hat mir sehr gut gefallen! Vielleicht hast du am Freitagabend Lust, mitzukommen. Dann könnten wir die Wohnung zusammen besichtigen und alle Details besprechen.</p>
+<p>Ich freue mich auf deine Antwort.</p>
+<p>Liebe Grüße, Elie</p>
 
