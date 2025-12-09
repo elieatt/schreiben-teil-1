@@ -3,12 +3,11 @@
 
 ---
 
-<p>Lieber Sleman,</p>
-<p>ich hoffe, dass bei dir alles in Ordnung ist.<br>
-Schade, dass du nicht kommen konntest – du hast wirklich etwas verpasst! Die Party letzte Woche war richtig spannend. Die Vorbereitung war zwar ein bisschen stressig, aber am Ende hat alles perfekt geklappt.</p>
-<p>Ich habe nicht nur das Wohnzimmer mit Lichtern und Luftballons dekoriert, sondern auch viele Snacks und Getränke besorgt. Außerdem haben alle dabei geholfen. Wir haben viel unternommen und bis spät in die Nacht Musik gehört. Das war wirklich eine unvergessliche Party!</p>
-<p>Am meisten hat mir dein Geschenk gefallen. Ich wollte dieses Buch schon lange haben und konnte es nirgends finden – jetzt kann ich es endlich lesen. Vielen Dank dafür!</p>
-<p>Hast du vielleicht am Wochenende Lust, mal vorbeizukommen? Dann könnten wir ein bisschen plaudern oder in die Stadt gehen. Melde dich doch bald!</p>
-<p>Viele Grüße<br>
-Elie</p>
+<p>Liebe Areej,</p>
+<p>ich hoffe, dass bei dir alles in Ordnung ist. Schade, dass du nicht kommen konntest. Du hast wirklich etwas verpasst.</p>
+<p>Die Party gestern war ganz ausgezeichnet. Wir haben viele lustige Aktivitäten unternommen und bis spät in die Nacht Musik gehört. Insgesamt hatten wir viel Spaß. Die Vorbereitung war zwar etwas anstrengend, aber am Ende hat alles gut geklappt. Ich habe nicht nur das Wohnzimmer mit Luftballons und Lichtern dekoriert, ondern auch die Getränke und Snacks besorgt.</p>
+<p>Am meisten hat mir dein Geschenk gefallen. Ich wollte dieses Buch schon lange haben und konnte es nirgends finden. Vielen Dank dafür.</p>
+<p>Vielleicht hast du am Wochenende Lust, vorbeizukommen? <strong>Was hältst du davon?</strong> Dann könnten wir ein bisschen plaudern oder in die Stadt gehen.</p>
+<p>Ich freue mich auf deine Antwort.</p>
+<p>Liebe Grüße, Elie</p>
 
