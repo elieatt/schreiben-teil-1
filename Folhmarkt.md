@@ -3,6 +3,12 @@
 
 ---
 
+<p>Liebe Areej,</p>
+<p>ich hoffe, dass bei dir alles in Ordnung ist. Schade**, dass** du nicht kommen konntest. Du hast wirklich etwas verpasst.</p>
+<p>Der Einkauf verlief sehr gut. Außerdem war der Flohmarkt/das Einkaufszentrum ganz ausgezeichnet mit verschiedenen Läden. Ich habe einen großen Rucksack gekauft, der so preiswert war. Trotzdem war es unglaublich laut und voll. Man musste überall <strong>lange</strong> anstehen. Das hat mir überhaupt nicht gefallen.</p>
+<p>Was hältst du davon? Vielleicht hast du nächste Woche Lust, mitzukommen? Dann könnten wir den Flohmarkt/das Einkaufszentrum besuchen. Zusammen wäre es bestimmt noch lustiger.</p>
+<p>Ich freue mich auf deine Antwort.</p>
+<p>Liebe Grüße, Elie</p>
 <p>Lieber Sleman,</p>
 <p>ich hoffe, dass es dir gut geht.<br>
 Schade, dass du nicht mitkommen konntest – du hast echt etwas verpasst!</p>
