@@ -9,7 +9,7 @@ Ich wollte dir erzählen, dass wir gestern eine Wohnung besichtigt haben die wir
 Die Wohnung ist ganz modern und hat nicht nur drei geräumige Zimmer, sondern auch einen großen Balkon mit Blick auf den nahegelegenen Park.<br>
 Du weißt ja, unsere jetzige Wohnung ist zu klein, daher mussten wir eine neue Wohnung finden.<br>
 Ich finde diese Wohnung wirklich am besten. Sie liegt in einem ruhigen Stadtviertel, ganz in der Nähe des Bahnhofs.<br>
-Was hältst du davon? Vielleicht könnten wir nächste Woche die Wohnung gemeinsam besichtigen. Dann können wir leicht entscheiden, ob wir sie mieten wollen.<br>
+Was hältst du davon? Vielleicht könnten wir nächste Woche die Wohnung gemeinsam besichtigen. Dann könnten wir leicht entscheiden, ob sie zu uns passt.<br>
 Ich freue mich auf deine Antwort.</p>
 <p>Liebe Grüße,<br>
 Elie<br>
@@ -32,7 +32,10 @@ Elie</p>
 <h3 id="📍-lage-und-notwendigkeit"><strong>2. 📍 Lage und Notwendigkeit</strong></h3>
 <p>Wir brauchen diese Wohnung dringend, weil meine aktuelle Wohnung zu klein und außerdem <strong>viel zu teuer</strong> ist. Die neue Wohnung liegt sehr zentral in einem ruhigen Stadtteil, sodass wir beide schnell zur Universität bzw. zur Arbeit kommen.</p>
 <h3 id="🗓️-vorschlag-zur-besichtigung"><strong>3. 🗓️ Vorschlag zur Besichtigung</strong></h3>
-<p>Was hältst du davon? Die Wohnung hat mir sehr gut gefallen! Vielleicht hast du am Freitagabend Lust, mitzukommen. Dann könnten wir die Wohnung zusammen besichtigen und alle Details besprechen.</p>
-<p>Ich freue mich auf deine Antwort.</p>
+<p>Was hältst du davon? Die Wohnung hat mir sehr gut gefallen! Vielleicht hast du am Freitagabend Lust, mitzukommen. Dann könnten wirich hoffe, dass bei dir alles in Ordnung ist. Schade, dass du nicht mitkommen konntest! Du hast wirklich etwas verpasst.</p>
+<p>Die Wohnung ist einfach klasse. Sie hat nicht nur drei geräumige Zimmer, sondern auch einen großen Balkon, der einen schönen Blick auf den nahegelegenen Park bietet.</p>
+<p>Du weißt ja, unsere jetzige Wohnung ist zu laut und eng, <strong>deshalb</strong> müssen wir eine andere Wohnung finden. Ich finde diese hier aber am besten. Außerdem liegt sie in einem ruhigen Stadtviertel.</p>
+<p>Was hältst du davon? Vielleicht hast du nächste Woche Lust, zusammen die Wohnung zusammen  **besichtigen und alle Details besprechen.</p>
+<p>Ich freue mich auf deine Antwor**? Dann könnten wir uns leichter entscheiden, ob sie zu uns passt.</p>
 <p>Liebe Grüße, Elie</p>
 
